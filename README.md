@@ -1,11 +1,19 @@
 # IIS 설치 및 설정
 
 ### 1.IIS 설치
-   제어판 → 프로그램 제거 또는 변경 → Windows 기능 켜기/끄기  
-   <br>
-   <!-- ![IIS_setting](/images/1_제어판.PNG){: width="100" height="100"} -->
-   <img src="images/1_제어판.PNG" alt="img1" width="45%" height="auto">
-   <img src="images/2_프로그램 제_거_또는_변경.PNG.jpg" alt="img2" width="45%" height="auto">
+
+제어판 → 프로그램 제거 또는 변경 → Windows 기능 켜기/끄기
+
+|                                |                                     |
+| :---------------------------: | :---------------------------------------------: |
+| ![img1](/images/1.PNG) | ![img2](/images/2.jpg) |
+
+<!-- <img src="images/1.PNG" alt="img1" width="45%" height="auto">
+<img src="images/2.jpg" alt="img2" width="45%" height="auto"> -->
+
+|               |                 |                  |
+| :--------------: | :--------------: | :--------------: |
+|![img3](/images/3.jpg) | ![img2](/images/4.jpg) |인터넷 정보 서비스 → World Wide Web 서비스 → 응용 프로그램 개발 기능 인터넷 정보 서비스 → 웹 관리 도구다음과 같이 설정한다. |
 
 <br>
 <img src="images/3_Windows_기능_켜기_끄기.jpg" alt="img3" width="27%" height="auto">
@@ -72,5 +80,6 @@
 ---
 
 ### 기타 설정
+
 <img src="images/19_ASP_설정.jpg" alt="img19" width="41%" height="auto">
 C:\Users\5N\Desktop\wrestling\default.asp
